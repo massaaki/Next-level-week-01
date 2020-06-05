@@ -1,7 +1,7 @@
 # Ecoleta - Web
 [Voltar para o projeto](https://github.com/massaaki/next-level-week)
 
-Versão web para cadastrode pontos de coleta
+Versão web para cadastrode pontos de coletafeito utilizando REACT
 
 ![Ecoleta](https://github.com/massaaki/next-level-week/blob/master/bg-ecoleta-web.png)
 
