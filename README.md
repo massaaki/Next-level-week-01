@@ -8,7 +8,9 @@ Plataforma para cadastro e pesquisa de pontos de coleta de resíduos.
 
 # Projeto
 [Acesar o BACKEND](https://github.com/massaaki/next-level-week/tree/master/server)
+
 [Acesar a versão WEB](https://github.com/massaaki/next-level-week/tree/master/web)
+
 [Acesar a versão MOBILE](https://github.com/massaaki/next-level-week/tree/master/mobile)
 
 
