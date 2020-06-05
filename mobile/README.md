@@ -1,9 +1,11 @@
 # Ecoleta - Mobile
 [Voltar para o projeto](https://github.com/massaaki/next-level-week)
 
-Versão Mobile para consulta de pontos de coleta
+Versão Mobile para consulta de pontos de coleta feito utilizando REACT-NATIVE
 
 ![Ecoleta](https://github.com/massaaki/next-level-week/blob/master/bg-ecoleta-mobile.png)
+
+
 
 
 ## Iniciando o projeto
