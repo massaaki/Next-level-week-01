@@ -1,5 +1,8 @@
 # Ecoleta - Backend
 [Voltar para o projeto](https://github.com/massaaki/next-level-week/)
+
+Backend para cadastro e consulta de pontos de coleta feito utilizando NODEJS.
+
 ## Iniciando aplicação
 ```
 npm install
