@@ -6,6 +6,13 @@ Plataforma para cadastro e pesquisa de pontos de coleta de resíduos.
 
 ![Ecoleta header](https://github.com/massaaki/next-level-week/blob/master/bg-ecoleta.png)
 
+# Projeto
+[Acesar o BACKEND](https://github.com/massaaki/next-level-week/tree/master/server)
+
+[Acesar a versão WEB](https://github.com/massaaki/next-level-week/tree/master/web)
+
+[Acesar a versão MOBILE](https://github.com/massaaki/next-level-week/tree/master/mobile)
+
 
 ## Descrição da aplicação
 ### Versão Web
