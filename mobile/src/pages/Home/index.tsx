@@ -1,6 +1,6 @@
 import React, {useState, useEffect, ChangeEvent} from 'react';
 import { Feather as Icon } from '@expo/vector-icons';
-import { StyleSheet, View, Image, Text, ImageBackground, TextInput, KeyboardAvoidingView, Platform } from 'react-native';
+import { StyleSheet, View, Image, Text, ImageBackground, TextInput, KeyboardAvoidingView, Platform, SafeAreaView } from 'react-native';
 import { RectButton } from 'react-native-gesture-handler';
 import { useNavigation } from '@react-navigation/native';
 import RNPickerSelect from 'react-native-picker-select';
