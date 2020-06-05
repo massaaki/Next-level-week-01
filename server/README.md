@@ -9,9 +9,8 @@ npm run dev
 ## Endpoints
 
 ### Listar todos os pontos (GET)
+localhost:<PORT>/points
 ```
-URL: http://localhost:<PORT>/points
-
 retorno: 
 [
   {
@@ -32,9 +31,8 @@ retorno:
 
 
 ### Listar um ponto específico (GET)
+localhost:<PORT>/points
 ```
-URL: http://localhost:<PORT>/points
-
 retorno: 
 {
   "id": number,
@@ -51,8 +49,8 @@ retorno:
 ```
 
 ### Cadastrar ponto de coleta (POST)
+localhost:<PORT>/points
 ```
-URL: http://localhost:<PORT>/points
 
 Request (Multipart)
   name: string
@@ -78,7 +76,7 @@ Retorno
 }
 ```
 ### Listar ponto específico (GET)
-#### http://localhost:PORT/points/:id
+localhost:PORT/points/:id
 ```
 Retorno 
 {
