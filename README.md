@@ -31,3 +31,11 @@ Backend: Node.js
 Frontend: React
 Mobile: React-Native
 ```
+
+
+# Author
+👤 **Maurício Massaaki**
+
+* Github: [@massaaki](https://github.com/massaaki)
+* site: [massaaki.com](https://massaaki.com)
+
