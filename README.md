@@ -1,5 +1,6 @@
 ![Ecoleta logo](https://github.com/massaaki/next-level-week/blob/master/ecoleta-logo.png)
 
+[![Author](https://img.shields.io/badge/Author-massaaki-blue)](https://github.com/massaaki/)
 # Plataforma para coleta de resíduos
 Plataforma para cadastro e pesquisa de pontos de coleta de resíduos.
 
@@ -34,8 +35,14 @@ Mobile: React-Native
 
 
 # Author
-👤 **Maurício Massaaki**
+**Maurício Massaaki**
 
-* Github: [@massaaki](https://github.com/massaaki)
-* site: [massaaki.com](https://massaaki.com)
+**E-mail:** eu@massaaki.com
+
+**Github:**  [@massaaki](https://github.com/massaaki)
+
+**Website:**  [massaaki.com](https://massaaki.com)
+
+# License
+This project is under the [MIT license](https://opensource.org/licenses/MIT).
 
